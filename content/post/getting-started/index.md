@@ -21,11 +21,7 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-<!-- image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: false -->
+
 
 authors:
 - admin
@@ -38,12 +34,12 @@ categories:
 -
 ---
 
-## Overview
 
 
 
 
-## Themes
+
+
 
 
 
@@ -51,6 +47,6 @@ categories:
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+Copyright 2022-present [Dawit Anelay](https://dawitanelay.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
