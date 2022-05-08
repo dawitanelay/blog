@@ -33,7 +33,11 @@ categories:
 - Post
 -
 ---
-
+Heraclitus, a philosopher born in the Persian Empire back in the fifth
+century BC, had it right when he wrote about men on the battlefield. “Out
+of every one hundred men,” he wrote, “ten shouldn’t even be there, eighty
+are just targets, nine are the real fighters, and we are lucky to have them, for
+they make the battle. Ah, but the one, one is a warrior...”
 
 
 
