@@ -43,10 +43,9 @@ categories:
 
 
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+
+
 
 ## License
 
 Copyright 2022-present [Dawit Anelay](https://dawitanelay.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
