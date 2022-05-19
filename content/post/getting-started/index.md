@@ -42,7 +42,7 @@ they make the battle. Ah, but the one, one is a warrior...”
 
 
 
--  "እሴት ያለው ሂወት ኑር"
+"እሴት ያለው ሂወት ኑር"
 ---
 ተዘጋጀህም አልዘጋጀህም ጉዳዩ አንድ ቀን ያበቃል ፤ ከንግዲህ የምትወታ ፀሐይ አትኖርም ፤ ደቂቃዎችም፣ ሰሃታትም፣ ቀናትም የሉም ።
 እነዛ የሰበሰብካቸው ነገሮች ሁሉ ፣ የወደድካቸሁም የሁኑ የረሳሀቸው ወደ ሌላ ሰው ይተላለፋሉ ።  ሀብትሕ ዝናህ መንምኖ እዚህ ግባ የማይባል ይሆናል ።
@@ -50,8 +50,10 @@ they make the battle. Ah, but the one, one is a warrior...”
 እደዚሁም ተስፋወችሕ ፣ ፀኑ ፋላጎትሕ፣የስራ ዝርዝሮች ግዜ ያለፈባቸው ይሆናሉ ። በፊት በጣም አንገብጋቢ የነበሩት ድሎች እና ሽንፍቶችም  በነው ይጠፋሉ ። ከየት መታህ ደስተኛ ወይም መከረኛ ኑሮ አሳለፍክ ይሄ በመጨረሻ ልዩነት ኣይኖረውም ። እንግዳው ላንተ ልዩነት የሚያመጣው መንድን ነው፧ የኖርካችው ቀናት ፣ የእሴታቸው ልክ አንደት ሊመዘን ይችላል የሚለው ፣ ውይንስ ለወደፊት የሚኖረው ስኬታማ ውጤትሕ  ያሳይሆን በሰውቸ ልቦና የሚተራቀምልህ እሴትኅ ነው ። ልዩነት የሚያመታው ምን ምን አንደገዛህ ሳይሆን ለሰወች መን መን እዳበረከትክ ነው እንጅ ፣ በመጨረሻህ ልዩነት የሚያመጣው ችሎታህ ሳይህን ፀባይህ ነው ። ሰንቶች መሰናበትሕን እዳወቁ ሳይሆን ለስንቶች አንተን ያለማግኘት የሁልግዜ እጦት እደሚሆንባቸው ነው ። ትውስታወችኅ አደሉም የሚወዱህ ሰው ውስጥ የሚቀረው ፣ ለምን ያህል ግዜ እደሚያስታውሱህ አደለም ፣ እነማንን ለምን እደምትታወሳቸው እንጅ ። እሴት ያለው ሂወት ባጋጣሚ ኣይመጣም ፣ ሁኔታውች የሚወስኑት ጉዳይ ሳይሆን ኣንት አራስ መርጠህ የምትወስነው ጉዳይ ነው::
 ስብሐት ለአብ ገ እግዛብሄር
 
----- English Version
+---
+English Version
 Make your life meaningful.
+---
 It will end one day, whether you are ready or not. There will be no sunrise, no sunset, no minutes, hours, or days.
 Everything you've accumulated, everything you've loved or forgotten, will be handed on to someone else. Your wealth and reputation might be jeopardized.
 It makes no difference what you had or how much debt you owed. Your rage, arrogance, quiet, and jealousy will be gone.
