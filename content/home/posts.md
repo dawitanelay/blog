@@ -35,4 +35,5 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
+  font_size_min: 0.5
 ---
