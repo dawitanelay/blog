@@ -24,6 +24,7 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
+    font_size : 0.5
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
@@ -35,5 +36,5 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
-  font_size : 0.5
+
 ---
