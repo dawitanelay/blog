@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Eerth
+  theme_day: Coffee
   theme_night: Eerth
   font: Mr Robot
-  font_size: L
+  font_size: s
 
 # SEO
 
