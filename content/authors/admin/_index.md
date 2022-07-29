@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dawit Anelay
+#title: Dawit Anelay
 
 # Is this the primary user of the site?
 superuser: true
