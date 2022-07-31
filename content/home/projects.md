@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: DevOps
     tag: DevOps
+  - name: Deep learning
+    tag: Deep learning
   - name: Other
     tag: Demo
 
