@@ -1,13 +1,13 @@
 ---
 title: Deploy a high available web server in Azure,Terrafrom & packer
-summary: Azure Infrastructure Operations Project: Deploying a scalable IaaS web server in Azure
+summary: Azure Infrastructure Operations Project: Deploying a scalable IaaS web server in Azure.
 
 tags:
 - DevOps
 date: "2022-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/dawitanelay/Azure-Devops-Deploy-Web-Server"
+external_link: https://github.com/dawitanelay/Azure-Devops-Deploy-Web-Server
 
 image:
   caption:
