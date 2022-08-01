@@ -1,6 +1,6 @@
 ---
 title: Deploy a high available web server in Azure,Terrafrom & packer
-summary: Azure Infrastructure Operations Project: Deploying a scalable IaaS web server in Azure.
+summary: Azure Infrastructure Operations Project Deploying a scalable IaaS web server in Azure.
 
 tags:
 - DevOps
