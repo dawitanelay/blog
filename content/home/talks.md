@@ -27,8 +27,6 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Action and Adventure
-    tag: Action and Adventure
   - name: Comic Book
     tag: Comic Book
   - name: Historical
