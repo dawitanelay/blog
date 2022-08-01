@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Books
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: Books
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: DevOps
-    tag: DevOps
-  - name: Deep learning
-    tag: Deep learning
+  - name: Action and Adventure
+    tag: Action and Adventure
+  - name: Comic Book
+    tag: Comic Book
+  - name: Historical
+    tag: Historical
+  - name: scientific literature
+    tag: scientific literature
   - name: Other
     tag: Other
 
