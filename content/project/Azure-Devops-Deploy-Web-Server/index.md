@@ -7,7 +7,7 @@ tags:
 date: "2022-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/dawitanelay/Azure-Devops-Deploy-Web-Server
+external_link: ""
 
 image:
   caption:
