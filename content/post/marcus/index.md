@@ -48,9 +48,6 @@ and courage not the man who is subject to fits of passion and discontent.
        The Meditations of Marcus Aurelius
 
 ---
-                                                              
-
-
 
 
 
