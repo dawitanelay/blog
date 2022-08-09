@@ -1,5 +1,5 @@
 ---
-title: Favorite bits from various sources
+title: Favorite quotes from several sources
 
 
 
@@ -40,7 +40,7 @@ of every one hundred men,” he wrote, “ten shouldn’t even be there, eighty
 are just targets, nine are the real fighters, and we are lucky to have them, for
 they make the battle. Ah, but the one, one is a warrior...”
 ---
-                                                        form  Can't Hurt Me book 
+                                                        form  Can't Hurt Me book
 
 
 ## License

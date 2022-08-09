@@ -19,16 +19,18 @@ bio: My research interests include
 # Interests to show in About widget
 interests:
 - Cloud Devops Engineer
-- Meaching learning
+- Site reliability engineering
+- Machine learning (ML)
+- Data analysis
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: M.Sc. in Artificial intelligence
+  - course: M.Sc. in  Artificial intelligence
     institution: University of Pisa
     year: 2022
-  - course: B.Sc. Electrical and Computer Engineering
+  - course: B.Sc. in  Electrical and Computer Engineering
     institution: Addis Ababa Institute of Technology (AAiT)
     year: 2017
 
