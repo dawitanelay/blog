@@ -18,7 +18,7 @@ bio: My research interests include
 
 # Interests to show in About widget
 interests:
-- Cloud Devops Engineer
+- Azure Devops Engineer
 - Site reliability engineering
 - Machine learning (ML)
 - Data analysis
@@ -66,7 +66,7 @@ email: ""
 highlight_name: true
 ---
                           "If it isn't automated it is broken"
-                          
+
 
 A DevOps engineer with a solid Linux and Python background who has hands-on expertise in managing, automating, and optimizing cloud deployments using configuration management, CI/CD, and DevOps principles.  When I'm not doing DevOps, I'm researching AI and machine learning.
 
