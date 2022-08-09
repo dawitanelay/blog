@@ -65,6 +65,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+                          "If it isn't automated it is broken"
+                          
+
 A DevOps engineer with a solid Linux and Python background who has hands-on expertise in managing, automating, and optimizing cloud deployments using configuration management, CI/CD, and DevOps principles.  When I'm not doing DevOps, I'm researching AI and machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
