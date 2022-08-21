@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Machine Learning Researcher( Master Thesis)
-      company: The ReTiS Lab:Mar.
+      company: The ReTiS Lab:Mar
       company_url: 'https://usiafrica.com/'
       company_logo: org-x
       location: Address:ReTiS Lab – TeCIP Istitute Scuola Superiore Sant’Anna
@@ -63,7 +63,7 @@ experience:
 
 
   - title: System Administrator
-    company:  EthSwitch S.C e-commerce companies, Ethiopia.
+    company:  EthSwitch S.C e-commerce companies, Ethiopia
     company_url: 'https://ethswitch.com/'
     company_logo: org-x
     location: Ethiopia
@@ -86,7 +86,7 @@ experience:
       * Boot process, system log, and Troubleshooting
 
   - title: Network Administrator
-      company:  United System Integrators, information technology companies, Ethiopia.
+      company:  United System Integrators, information technology companies, Ethiopia
       company_url: 'https://usiafrica.com/'
       company_logo: org-x
       location: Ethiopia
