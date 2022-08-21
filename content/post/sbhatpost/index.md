@@ -34,21 +34,16 @@ categories:
 - Post
 -
 
----
-          Have some self respect
-
-...With every act ask yourself if you are respecting yourself with it and if you will regret it inside.
-Watch for and erase any impulse to express things you think you don't truly believe.
-Do not view anything as beneficial which casuse you to break  a promise lose your self-respect or hate anyone .
-when roused to anger remember  that there is noting manly about giving in to emotion it's courtesy and
-kindness that defined a human being and a man he who possesses these qualities possesses strength nerves
-and courage not the man who is subject to fits of passion and discontent.
- make yourself  neither of a tyrant nor slave of any man and what ever happends avoid complaning
-
-       The Meditations of Marcus Aurelius
 
 ---
-                                                              
+ተዘጋጀህም አልዘጋጀህም ጉዳዩ አንድ ቀን ያበቃል ፤ ከንግዲህ የምትወታ ፀሐይ አትኖርም ፤ ደቂቃዎችም፣ ሰሃታትም፣ ቀናትም የሉም ።
+እነዛ የሰበሰብካቸው ነገሮች ሁሉ ፣ የወደድካቸሁም የሁኑ የረሳሀቸው ወደ ሌላ ሰው ይተላለፋሉ ።  ሀብትሕ ዝናህ መንምኖ እዚህ ግባ የማይባል ይሆናል ።
+ምን ምን የግልህ እንደነበር ወይም ምን ምን እዳ ሊከፈልህ ይገባ አንደ ነበር ልዩነት አያመታም ። ቂምህ ፣ አትንኩኝ ባይነትሕ ፣ ዝምታህ፣ ቅናትሕ ጨርሰው ይጠፋሉ።
+እደዚሁም ተስፋወችሕ ፣ ፀኑ ፋላጎትሕ፣የስራ ዝርዝሮች ግዜ ያለፈባቸው ይሆናሉ ። በፊት በጣም አንገብጋቢ የነበሩት ድሎች እና ሽንፍቶችም  በነው ይጠፋሉ ። ከየት መታህ ደስተኛ ወይም መከረኛ ኑሮ አሳለፍክ ይሄ በመጨረሻ ልዩነት ኣይኖረውም ። እንግዳው ላንተ ልዩነት የሚያመጣው መንድን ነው፧ የኖርካችው ቀናት ፣ የእሴታቸው ልክ አንደት ሊመዘን ይችላል የሚለው ፣ ውይንስ ለወደፊት የሚኖረው ስኬታማ ውጤትሕ  ያሳይሆን በሰውቸ ልቦና የሚተራቀምልህ እሴትኅ ነው ። ልዩነት የሚያመታው ምን ምን አንደገዛህ ሳይሆን ለሰወች መን መን እዳበረከትክ ነው እንጅ ፣ በመጨረሻህ ልዩነት የሚያመጣው ችሎታህ ሳይህን ፀባይህ ነው ። ሰንቶች መሰናበትሕን እዳወቁ ሳይሆን ለስንቶች አንተን ያለማግኘት የሁልግዜ እጦት እደሚሆንባቸው ነው ። ትውስታወችኅ አደሉም የሚወዱህ ሰው ውስጥ የሚቀረው ፣ ለምን ያህል ግዜ እደሚያስታውሱህ አደለም ፣ እነማንን ለምን እደምትታወሳቸው እንጅ ። እሴት ያለው ሂወት ባጋጣሚ ኣይመጣም ፣ ሁኔታውች የሚወስኑት ጉዳይ ሳይሆን ኣንት አራስ መርጠህ የምትወስነው ጉዳይ ነው::
+
+---
+                                                              ስብሐት ለአብ ገ እግዛብሄር
+
 
 
 
