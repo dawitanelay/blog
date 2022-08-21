@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Machine Learning Researcher( Master Thesis)
-      company: The ReTiS Lab:Mar
+      company: The ReTiS Lab
       company_url: 'https://usiafrica.com/'
       company_logo: org-x
       location: Address:ReTiS Lab – TeCIP Istitute Scuola Superiore Sant’Anna
