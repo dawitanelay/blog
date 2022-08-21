@@ -27,8 +27,8 @@ experience:
     company_url: "https://usiafrica.com/"
     company_logo: org-x
     location: Address:ReTiS Lab – TeCIP Istitute Scuola Superiore Sant’Anna
-    date_start: "Mar 01, 2022"
-    date_end: "Jul 31, 2022"
+    date_start: "March 2022"
+    date_end: "July 2022"
     description: Short-term Operation Metrics Forecasting and anomaly Detection for Virtualized Network Functions
 
   - title: DevOps Engineer
