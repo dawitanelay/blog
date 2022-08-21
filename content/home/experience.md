@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: March 2006
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: "https://usiafrica.com/"
     company_logo: org-x
     location: Address:ReTiS Lab – TeCIP Istitute Scuola Superiore Sant’Anna
-    date_start: "2022-04"
-    date_end: "2022-07"
+    date_start: '2022-04-01'
+    date_end: '2022-07'
     description: Short-term Operation Metrics Forecasting and anomaly Detection for Virtualized Network Functions
 
   - title: DevOps Engineer
@@ -36,8 +36,8 @@ experience:
     company_url: "https://geosolutionsgroup.com/"
     company_logo:
     location: Massarosa, Lucca ,Italy
-    date_start: "2021-05 "
-    date_end: "2021-12"
+    date_start: '2021-05'
+    date_end: '2021-12'
     description: Responsibilities include:|2-
       * Create continuous delivery chanins using Jenkins and other DevOps tools
       * Managing and monitoring continuous delivery processes for clients
@@ -65,8 +65,8 @@ experience:
     company_url: "https://ethswitch.com/"
     company_logo: org-x
     location: Ethiopia
-    date_start: "2018-03"
-    date_end: "2019-10"
+    date_start: '2018-03'
+    date_end: '2019-10'
     description: Responsibilities include:|2-
       * Coordinate with the development and database team to make the system 24/7 available.
       * Installing and configuring Linux server
@@ -86,8 +86,8 @@ experience:
     company_url: "https://usiafrica.com/"
     company_logo: org-x
     location: Ethiopia
-    date_start: "2016-03"
-    date_end: "2016-9"
+    date_start: '2016-03'
+    date_end: '2016-9'
     description: Responsibilities include:|2-
       * nstalled, configured local area network (LAN), wide area network (WAN)and Internet system
       Experience:|
