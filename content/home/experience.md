@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: March,2006
+date_format: March 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,7 +27,7 @@ experience:
     company_url: "https://usiafrica.com/"
     company_logo: org-x
     location: Address:ReTiS Lab – TeCIP Istitute Scuola Superiore Sant’Anna
-    date_start: "March, 2022"
+    date_start: "March 2022"
     date_end: "July, 2022"
     description: Short-term Operation Metrics Forecasting and anomaly Detection for Virtualized Network Functions
 
